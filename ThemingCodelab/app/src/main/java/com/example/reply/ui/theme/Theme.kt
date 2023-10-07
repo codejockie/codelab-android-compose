@@ -119,6 +119,7 @@ fun ReplyTheme(
     }
     MaterialTheme(
         colorScheme = replyColorScheme,
+        typography = Typography,
         content = content
     )
 }
